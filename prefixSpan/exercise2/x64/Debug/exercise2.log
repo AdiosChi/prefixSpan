@@ -1,0 +1,4 @@
+﻿  exercise2.cpp
+C:\Users\Adios\Desktop\prefixSpan\exercise2\exercise2.cpp(76,24): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\Adios\Desktop\prefixSpan\exercise2\exercise2.cpp(369,38): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  exercise2.vcxproj -> C:\Users\Adios\Desktop\prefixSpan\x64\Debug\exercise2.exe
